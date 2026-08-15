@@ -20,7 +20,7 @@ Functional requirements are used to outline the functions and services the propo
 |FR-13|Rescheduele Appointment|The system shall enable patients to reschedule an eligible appointment to a different date or time. | Patient | High |
 |FR-14| View Doctor Schedule|The system shall enable doctors to see their schedules. | Doctor | High
 |FR-15|View Appointment Details |The system shall enable doctors to see the pertinent information about appointments booked for their doctor. | Doctor | Medium |
-|FR-16 | Manage Doctors | The system should enable the administrator to add, view and update the doctor information. | High | Administrator
+|FR-16 | Manage Doctors | The system should enable the administrator to add, view and update the doctor information. |  Administrator|High |
 |FR-17|Manage Doctor Availability| The system will let administrator create and update doctor's available appointment schedules. | Administrator | High |
 |FR-18|Manage Appointments| The system shall enable administrator(s) to view and manage the appointment records. | Administrator | High |
 |FR-19|User Logout|The system allows authenticated users to securely log out.The system should enable patient, doctor and administrator to log out safely from the system.| Patient, Doctor, Administrator | Medium |
