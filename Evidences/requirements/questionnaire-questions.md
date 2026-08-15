@@ -1,5 +1,4 @@
 # Questionnaire Questions
-## Hospital Appointment Booking System
 ### Purpose
 This questionnaire is designed to find out the expectations and requirements of the users of a proposed Hospital Appointment Booking System. This survey primarily asks about the current appointment-booking experience and the attributes users would seek in an online booking system.
 > Note: This questionnaire is a mock academic requirement-gathering process.
