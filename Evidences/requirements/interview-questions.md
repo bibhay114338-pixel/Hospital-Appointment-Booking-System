@@ -11,5 +11,5 @@ Interview Questions.
 10. What should be provided to patients on completing an appointment?
 11. What should be the roles of administrators in hospitals?
 12. What are the security/privacy issues that need to be addressed?
-13. What would be helpful to patients for an online appointment system?
-14. What would you expect to be better with a computerised appointment system?
+13. What would you expect to be better with a computerised appointment system?
+14. What would be helpful to patients for an online appointment system?
