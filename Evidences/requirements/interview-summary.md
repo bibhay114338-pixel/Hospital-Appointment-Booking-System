@@ -1,5 +1,5 @@
 # Interview Summary
-## Hospital Appointment Booking System
+
 ### Interview Information
 
 | Item | Details |
