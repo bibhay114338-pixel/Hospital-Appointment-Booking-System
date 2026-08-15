@@ -105,8 +105,8 @@ The repository is enriched by meaningful contributions of each team member, base
 | **GitHub**                          | Documentation, collaboration, and version control |
 | **Trello**                          | Agile project planning and task management        |
 Microsoft Excel / Google Sheets | Product backlog, Gantt chart, and test cases |
-| **Draw.io / Lucidchart**            | UML diagrams                                      |
-| **Microsoft Word / Google Docs**    | Final project report                              |
+| **Draw.io*       | UML diagrams                                      |
+| **Microsoft Word**    | Final project report                              |
 ## Repository Structure
 ```text
 hospital-appointment-booking-system/
@@ -141,6 +141,7 @@ hospital-appointment-booking-system/
 └── report/
     ├── final-report.docx
     └── final-report.pdf
+----
 ## Project Documentation
 ### Requirements
 The scope and stakeholders are determined, along with the process for gathering requirements and the system's requirements are outlined in the requirements documentation.
