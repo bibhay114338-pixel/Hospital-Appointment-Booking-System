@@ -1,7 +1,5 @@
 # Questionnaire Summary
 
-## Hospital Appointment Booking System
-
 ### Overview
 
 A questionnaire with 15 questions, based on simulated Google Forms, was developed to determine what the users might expect to find in the Hospital Appointment Booking System.
