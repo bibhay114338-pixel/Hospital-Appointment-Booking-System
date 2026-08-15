@@ -151,20 +151,23 @@ The scope and stakeholders are determined, along with the process for gathering 
 * [Requirement Gathering Techniques](requirements/requirement-gathering-techniques.md)
 * [Functional Requirements](requirements/functional-requirements.md)
 * [Non-Functional Requirements](requirements/non-functional-requirements.md)
-Primary Responsibility: Bibhay Aryal
+
+**Primary Responsibility: Bibhay Aryal**
 ### Project Management
 The project-management documentation includes all of the work done by the team in planning and scheduling the project using the Agile methodology.
 * [Product Backlog](project-management/product-backlog.xlsx)
 * [Sprint 1 Plan](project-management/sprint-1-plan.md)
 * [Gantt Chart](project-management/gantt-chart.xlsx)
-Primary Responsibility: Priyanka Singh
+
+**Primary Responsibility: Priyanka Singh**
 ### System Design
 The structure and behavior of the proposed system are represented in the structure of the design folder by UML diagrams.
 * [Use Case Diagram](design/use-case-diagram.png)
 * [Class Diagram](design/class-diagram.png)
 * [Sequence Diagram](design/sequence-diagram-book-appointment.png)
 * [Activity Diagram](design/activity-diagram-book-appointment.png)
-Primary Responsibility: Neharika Wagle
+
+**Primary Responsibility: Neharika Wagle**
 ### Software Testing
 The testing documentation confirms that all the major requirements and proposed functions of the Hospital Appointment Booking System are fulfilled.
 Testing covers:
