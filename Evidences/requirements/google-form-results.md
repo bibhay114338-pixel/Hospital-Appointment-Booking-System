@@ -1,7 +1,5 @@
 # Google Forms Results
 
-This is an application for scheduling hospital appointments.
-
 ### Survey Information
 
 | Item                | Details                                                     |
