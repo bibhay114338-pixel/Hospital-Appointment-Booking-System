@@ -143,6 +143,8 @@ hospital-appointment-booking-system/
     └── final-report.pdf
 ...
 
+
+---
 ## Project Documentation
 ### Requirements
 The scope and stakeholders are determined, along with the process for gathering requirements and the system's requirements are outlined in the requirements documentation.
