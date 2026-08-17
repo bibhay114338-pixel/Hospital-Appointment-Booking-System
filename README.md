@@ -11,9 +11,9 @@ The project is completed collaboratively by a team of three students.
 
 | Team Member        | Primary Responsibility                                            |
 | ------------------ | ----------------------------------------------------------------- |
-| **Bibhay Aryal**   | Requirements Analysis, Stakeholder Analysis, and Software Testing |
-| **Priyanka Singh** | Trello, Product Backlog, Sprint 1, and Gantt Chart                |
-| **Neharika Wagle** | UML System Design         |                                
+| **Bibhay Aryal**   | Requirements Analysis and Stakeholder Analysis |
+| **Priyanka Singh** | Trello, Product Backlog, Sprint 1, and System Testing                |
+| **Neharika Wagle** | UML System Design, Trello and Gant Chart        |                                
 ### Bibhay Aryal — Requirements Analysis & Testing ###
 Responsible for:
 * Project scope
@@ -21,15 +21,6 @@ Responsible for:
 * Requirement-gathering techniques
 * Functional requirements
 * Non-functional requirements
-* Unit test cases
-* Integration test cases
-* System test cases
-* User Acceptance Testing (UAT)
-* Positive and negative test scenarios
-* Test objectives
-* Test inputs
-* Expected and actual outputs
-* Excel test matrix
 ### Priyanka Singh — Agile Project Management
 Responsible for:
 * Trello board setup and management
@@ -41,8 +32,16 @@ Responsible for:
 * Task assignments
 * Deadlines
 * Task status tracking
-* Gantt chart
 * Trello activity and evidence
+* Unit test cases
+* Integration test cases
+* System test cases
+* User Acceptance Testing (UAT)
+* Positive and negative test scenarios
+* Test objectives
+* Test inputs
+* Expected and actual outputs
+* Excel test matrix
 ### Neharika Wagle — UML System Design
 Responsible for:
 * Use Case Diagram
@@ -51,6 +50,7 @@ Responsible for:
 * Activity Diagram
 * Reviewing UML consistency with system requirements
 * Updating diagrams based on team review
+* Trello activity
 While the roles are split, all three team members are involved in project discussions, reviews, version control on GitHub, and in completing the project.
 ## Main System Features
 The proposed Hospital Appointment Booking System consists of:
