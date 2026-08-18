@@ -12,8 +12,8 @@ The project is completed collaboratively by a team of three students.
 | Team Member        | Primary Responsibility                                            |
 | ------------------ | ----------------------------------------------------------------- |
 | **Bibhay Aryal**   | Requirements Analysis, Stakeholder Analysis, and Software Testing |
-| **Priyanka Singh** | Trello, Product Backlog, Sprint 1, and Gantt Chart                |
-| **Neharika Wagle** | UML System Design         |                                
+| **Priyanka Singh** | Trello, Product Backlog, and Test Cases               |
+| **Neharika Wagle** | UML System Design,  Sprint 1, and Gantt Chart        |                                
 ### Bibhay Aryal — Requirements Analysis & Testing ###
 Responsible for:
 * Project scope
