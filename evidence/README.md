@@ -338,22 +338,22 @@ Feature Branch/Commits/Pull Request/Review/Approve/Merge into Main
 
 # Agile Scrum Evidence Summary
 
-Evidence | Agile / Project Management Practice Demonstrated |
+| Evidence | Agile / Project Management Practice Demonstrated |
 |---|---|
-Product Backlog: Scrum backlog management |
-User Stories | Representation of requirements |
-Story Points are a relative measure of effort. |
+| Product Backlog | Scrum backlog management |
+| User Stories | Requirement representation |
+| Story Points | Relative effort estimation |
 | Priorities | Backlog prioritization |
 | Sprint 1 | Sprint planning |
-Trello Task Assignments | Team responsibility |
-Progress tracking on Trello board | Sprint progress tracking |
-Review Column: Work review |
-Completed Sprint activities | Done Column |
-Version history |
-Isolate project changes in GitHub Branch |
-Pull Request | Proposed integration |
-Collaborative review | Pull Request Review |
-Approved work is integrated into the course.Approved work is included in the course. |
+| Trello Task Assignments | Team responsibility |
+| Trello Board Progress | Sprint progress tracking |
+| Review Column | Work review |
+| Done Column | Completed Sprint activities |
+| GitHub Commits | Version history |
+| GitHub Branch | Isolated project changes |
+| Pull Request | Proposed integration |
+| Pull Request Review | Collaborative review |
+| Merge | Integration of approved work |
 
 
 # Conclusion
