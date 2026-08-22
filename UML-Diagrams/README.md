@@ -149,7 +149,7 @@ The requirement-to-design traceability can be implemented through examples such 
 | ---------------------------------------- | ---------------------------------------- |
 | FR-04 – Search Doctor                    | Use Case and Sequence Diagram            |
 | FR-05 – Filter Doctor by Specialization  | Use Case and Class Diagram               |
-Process Model using Use Case, Sequence and Activity Diagram – FR-07
+| FR-07 - View Available Appointment Slots | Use Case, Sequence and Activity Diagram|
 | FR-08 – Book Appointment                 | All major UML diagrams                   |
 | FR-09 – Prevent Duplicate Booking        | Sequence and Activity Diagram            |
 | FR-12 – Cancel Appointment               | Use Case and Class Diagram               |
