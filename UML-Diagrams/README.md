@@ -182,12 +182,11 @@ Some examples of messages for commits are:
 
 * Click on `Add initial use case diagram`:
 * Click on `Add initial use case diagram`:
-* Add system relationships to class diagram.
-* Note: Add the Appointments Book Sequence Diagram.
+* `Add system relationships to class diagram`.
+* Note: `Add the Appointments Book Sequence Diagram`.
 * Select `Add appointment booking activity diagram`.
 * Click on `Add appointment booking activity diagram`.
-* Ater having a team discussion, update the UML diagrams:
-* `Refine UML diagrams after team review`
+* Ater having a team discussion, update the UML diagrams: `Refine UML diagrams after team review`
 
 
 ## Responsibility
