@@ -160,10 +160,10 @@ The project-management documentation includes all of the work done by the team i
 **Primary Responsibility**: **Neharika Wagle**
 ### System Design
 The structure and behavior of the proposed system are represented in the structure of the design folder by UML diagrams.
-* [Use Case Diagram](Design/UseCase.png)
-* [Class Diagram](Design/ClassDiagram-Final.png)
-* [Sequence Diagram](Design/SequenceDiagram-Final.png)
-* [Activity Diagram](Design/Activity-Final.png)
+* [Use Case Diagram](UML-Diagrams/Design/UseCase.png)
+* [Class Diagram](UML-Diagrams/Design/ClassDiagram-Final.png)
+* [Sequence Diagram](UML-Diagrams/Design/SequenceDiagram-Final.png)
+* [Activity Diagram](UML-Diagrams/Design/Activity-Final.png)
 
 **Primary Responsibility: Neharika Wagle**
 ### Software Testing
