@@ -121,9 +121,7 @@ hospital-appointment-booking-system/
 │   └── non-functional-requirements.md
 │
 ├── project-management/
-│   ├── product-backlog.xlsx
-│   ├── sprint-1-plan.md
-│   └── gantt-chart.xlsx
+│   ├── GanttChart.jpeg
 │
 ├── design/
 │   ├── use-case-diagram.png
@@ -135,9 +133,9 @@ hospital-appointment-booking-system/
 │   └── hospital-appointment-test-matrix.xlsx
 │
 ├── evidence/
-│   ├── github/
-|   ├── requirements/
-│   └── trello/
+│   ├── github/....
+|   ├── requirements/....
+│   └── trello/....
 │
 └── report/
     ├── final-report.docx
