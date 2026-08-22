@@ -208,7 +208,7 @@ It illustrates the Scrum workflow, covering the following aspects:
 
 ## 2. Product Backlog
 
-[**View 02-product-backlog.png**](trello/02-product-backlog.png)
+[**View ProductBacklog_1.jpeg**](trello/ProductBacklog/ProductBacklog_1.jpeg)
 
 This is a screenshot of the Product Backlog with the project's User Stories.
 
