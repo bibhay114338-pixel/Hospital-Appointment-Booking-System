@@ -191,7 +191,8 @@ Some examples of messages for commits are:
 
 ## Responsibility
 
-Targeted financial support has been provided for this by Neharika Wagle.
+Targeted final support has been provided for this by Neharika Wagle.
+
 **Review:** Project Team
 
 The final UML diagrams will be part of the project report and will be stored in the GitHub repository as part of the System Design documentations.
