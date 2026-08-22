@@ -145,17 +145,14 @@ evidence/
 │
 ├── README.md
 │
-├── product-backlog/
-│   └── product-backlog evidence
+│   
 │
 ├── trello/
-│   ├── 01-trello-board.png
-│   ├── 02-product-backlog.png
-│   ├── 03-sprint-1.png
-│   ├── 04-task-assignments.png
-│   ├── 05-board-progress.png
-│   ├── 06-review.png
-│   └── 07-completed-board.png
+├── product-backlog/
+│   └── product-backlog evidence
+├── Sprint1/
+│   ├── Sprint1_1.png
+│   ├── Sprint1_2.png
 │
 └── github/
     ├── 01-repository-created.png
@@ -208,7 +205,7 @@ It illustrates the Scrum workflow, covering the following aspects:
 
 ## 2. Product Backlog
 
-[**View ProductBacklog_1.jpeg**](trello/ProductBacklog/ProductBacklog_1.jpeg)
+![**View ProductBacklog_1.jpeg**](trello/ProductBacklog/ProductBacklog_1.jpeg)
 
 This is a screenshot of the Product Backlog with the project's User Stories.
 
