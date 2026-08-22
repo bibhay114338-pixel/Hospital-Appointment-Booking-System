@@ -48,7 +48,7 @@ Administrator functions include:
 * Manage Appointments
 * Logout
 
-**File:** `Design/UsecaseDiagram.png
+**File:** ![Use Case Diagram](Design/UseCase.png)
 
 ### 2. Class Diagram
 
@@ -71,7 +71,7 @@ A doctor may have more than one schedule entry.
 A specialization is composed of a doctor.
 * The administrator is responsible for doctors, scheduling and appointments.
 
-**File:** Design/ClassDiagram.png
+**File:** ![Class Diagram](Design/ClassDiagram-Final.png)
 
 
 ### 3. Sequence Diagram
@@ -99,7 +99,7 @@ If the slot is available, create an appointment.
 
 The diagram also takes into account the other scenario if the selected time window becomes unavailable.
 
-**File:** Design/SequenceDiagram.png
+**File:** ![Sequence Diagram](Design/SequenceDiagram-Final.png)
 
 ### 4. Activity Diagram
 
@@ -124,7 +124,7 @@ Selected slot becomes unavailable.
 
 When necessary, the user is directed to choose another option available.
 
-**File:** Design/ActivityDiagram.png
+**File:** ![ActivityDiagram](Design/Activity-Final.png)
 
 ## Diagram Files
 
@@ -195,3 +195,4 @@ Targeted final support has been provided for this by Neharika Wagle.
 **Review:** Project Team
 
 The final UML diagrams will be part of the project report and will be stored in the GitHub repository as part of the System Design documentations.
+
