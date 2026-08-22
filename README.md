@@ -51,6 +51,7 @@ Responsible for:
 * Reviewing UML consistency with system requirements
 * Updating diagrams based on team review
 * Trello activity
+* Gantt Chart
 While the roles are split, all three team members are involved in project discussions, reviews, version control on GitHub, and in completing the project.
 ## Main System Features
 The proposed Hospital Appointment Booking System consists of:
@@ -154,17 +155,15 @@ The scope and stakeholders are determined, along with the process for gathering 
 **Primary Responsibility: Bibhay Aryal**
 ### Project Management
 The project-management documentation includes all of the work done by the team in planning and scheduling the project using the Agile methodology.
-* [Product Backlog](project-management/product-backlog.xlsx)
-* [Sprint 1 Plan](project-management/sprint-1-plan.md)
-* [Gantt Chart](project-management/gantt-chart.xlsx)
+* ![Gantt Chart](project-management/GanttChart.jpeg)
 
-**Primary Responsibility: Priyanka Singh**
+**Primary Responsibility: **Neharika Wagle**
 ### System Design
 The structure and behavior of the proposed system are represented in the structure of the design folder by UML diagrams.
-* [Use Case Diagram](design/use-case-diagram.png)
-* [Class Diagram](design/class-diagram.png)
-* [Sequence Diagram](design/sequence-diagram-book-appointment.png)
-* [Activity Diagram](design/activity-diagram-book-appointment.png)
+* [Use Case Diagram](Design/UseCase.png)
+* [Class Diagram](Design/ClassDiagram-Final.png)
+* [Sequence Diagram](Design/SequenceDiagram-Final.png)
+* [Activity Diagram](Design/Activity-Final.png
 
 **Primary Responsibility: Neharika Wagle**
 ### Software Testing
