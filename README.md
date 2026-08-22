@@ -157,13 +157,13 @@ The scope and stakeholders are determined, along with the process for gathering 
 The project-management documentation includes all of the work done by the team in planning and scheduling the project using the Agile methodology.
 * ![Gantt Chart](project-management/GanttChart.jpeg)
 
-**Primary Responsibility: **Neharika Wagle**
+**Primary Responsibility**: **Neharika Wagle**
 ### System Design
 The structure and behavior of the proposed system are represented in the structure of the design folder by UML diagrams.
 * [Use Case Diagram](Design/UseCase.png)
 * [Class Diagram](Design/ClassDiagram-Final.png)
 * [Sequence Diagram](Design/SequenceDiagram-Final.png)
-* [Activity Diagram](Design/Activity-Final.png
+* [Activity Diagram](Design/Activity-Final.png)
 
 **Primary Responsibility: Neharika Wagle**
 ### Software Testing
