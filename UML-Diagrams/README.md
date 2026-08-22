@@ -48,7 +48,7 @@ Administrator functions include:
 * Manage Appointments
 * Logout
 
-**File:** `Design/Usecase.png`
+**File:** ![Use Case Diagram](Design/Usecase.png)
 
 ### 2. Class Diagram
 
