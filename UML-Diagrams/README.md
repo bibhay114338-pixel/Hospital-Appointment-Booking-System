@@ -71,7 +71,7 @@ A doctor may have more than one schedule entry.
 A specialization is composed of a doctor.
 * The administrator is responsible for doctors, scheduling and appointments.
 
-**File:** Design/ClassDiagram-Final.png
+**File:** ![Class Diagram](Design/ClassDiagram-Final.png)
 
 
 ### 3. Sequence Diagram
@@ -99,7 +99,7 @@ If the slot is available, create an appointment.
 
 The diagram also takes into account the other scenario if the selected time window becomes unavailable.
 
-**File:** Design/SequenceDiagram-Final.png
+**File:** ![Sequence Diagram](Design/SequenceDiagram-Final.png)
 
 ### 4. Activity Diagram
 
@@ -124,7 +124,7 @@ Selected slot becomes unavailable.
 
 When necessary, the user is directed to choose another option available.
 
-**File:** Design/Activity-Final.png
+**File:** ![ActivityDiagram](Design/Activity-Final.png)
 
 ## Diagram Files
 
